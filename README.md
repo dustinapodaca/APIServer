@@ -6,13 +6,13 @@
 
 ### Problem Domain
 
-- Build a REST API using Express, by creating a proper series of endpoints that perform CRUD operations on a database, including server modularization, use of middleware, and tests using the REST standard.
+- Build a REST API using Express, by creating a proper series of endpoints that perform CRUD operations on a database, including server modularization, use of middleware, a model interface, and tests using the REST standard.
 
 ### Links and Resources
 
-- [CI/CD](https://github.com/dustinapodaca/basic-api-server/actions) (GitHub Actions)
-- [Prod Deployment](https://basic-api-server-prod.onrender.com)
-- [Dev Deployment](https://basic-api-server-dev.onrender.com)
+- [CI/CD](https://github.com/dustinapodaca/api-server/actions) (GitHub Actions)
+- [Prod Deployment](https://api-server-prod.onrender.com)
+- [Dev Deployment](https://api-server-dev.onrender.com)
 
 ### Setup
 
