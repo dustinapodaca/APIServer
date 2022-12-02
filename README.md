@@ -61,4 +61,4 @@ see `.env.sample`
 
 Link to an image of the UML for your application and response to events
 
-![UML](./assets/img/UMI-APICRUD.png)
+![UML](./assets/img/UMI-DataModel.png)
